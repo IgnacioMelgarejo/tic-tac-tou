@@ -115,7 +115,7 @@ function App() {
 
   return (
     <main className='board'>
-      <h1>Ulises se la come doblada</h1>
+      <h1>Ta te ti</h1>
 
       <button onClick={resetGame}>Resetear juego</button>
 
